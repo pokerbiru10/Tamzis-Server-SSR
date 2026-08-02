@@ -1,0 +1,6 @@
+{
+  "name": "tamzis-netlify-proxy",
+  "version": "1.0.0",
+  "description": "Netlify serverless functions proxy for TAMZIS",
+  "private": true
+}
